@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9GSMm8o9Ps=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChristianCalimutan\\source\\repos\\MVVM\\MVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChristianCalimutan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
