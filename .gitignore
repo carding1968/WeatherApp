@@ -1,0 +1,6 @@
+# Visual Studio folder
+.vs/
+
+# Build output
+obj/
+bin/
